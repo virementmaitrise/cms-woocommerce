@@ -9,8 +9,6 @@ Ce dépôt contient le module 'Virement Maîtrisé' pour WooCommerce.
 
 ## Prérequis
 
-### PrestaShop 8
-
 | Prérequis            | Configuration                                      |
 |----------------------|----------------------------------------------------|
 | Version PHP          | 7.2                                                |
